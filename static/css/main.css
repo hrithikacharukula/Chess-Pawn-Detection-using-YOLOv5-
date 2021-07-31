@@ -1,0 +1,6 @@
+input[type=submit] {
+  font-size: 2.0em;
+  font-family: 'Times New Roman', Times, serif;
+  border: black;
+  font-weight: 700;
+}
